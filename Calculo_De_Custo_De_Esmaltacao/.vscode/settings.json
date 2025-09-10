@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "manipulacao_de_dados.h": "c"
+    }
+}
